@@ -8,6 +8,9 @@
     &--orange{
         background-color: $mainOrange;
     }
+    &--blue{
+        background-color: $mainBlue;
+    }
 
     &--large{
         font-size: 1.25rem;
